@@ -1,6 +1,9 @@
 # Project-Titanic-Data-Set
 Predict survival on the Titanic
-## Part 1 Visualization :art:
+* Visualization
+* Data Preprocesing
+* Model Building & Making Prediction
+## [Part 1 Visualization :art:](https://github.com/vassylkorzh/Project-1-Titanic-Data-Set/blob/main/5.%20Insights/Titanic.pdf)
 First of all I decided to watch how gender and age affect the likelihood of survival
 ![](https://github.com/vassylkorzh/Project-1-Titanic-Data-Set/blob/main/Images/Age%20%26%20Gender.png)
 You know if you are a young girl of 20-25 years old you are very lucky.
@@ -20,8 +23,8 @@ It will help in the next part when I'll do some feature engineering.
 Such as creating Name Title,Cabin Letter, Age Bins ... columns
 ![](https://github.com/vassylkorzh/Project-1-Titanic-Data-Set/blob/main/Images/Cabin%20Letter.png)
 [Presentation document](https://github.com/vassylkorzh/Project-1-Titanic-Data-Set/blob/main/5.%20Insights/Titanic.pdf)
-## Part 2 Data Preprocesing  :wrench:
+## [Part 2 Data Preprocesing  :wrench:](https://github.com/vassylkorzh/Project-1-Titanic-Data-Set/blob/main/Code/Titanic%20Data%20Preprocesing.ipynb)
 [Code](https://github.com/vassylkorzh/Project-1-Titanic-Data-Set/blob/main/Code/Titanic%20Data%20Preprocesing.ipynb)
-## Part 3 Model Building & Making Prediction  :chart_with_upwards_trend:
+## [Part 3 Model Building & Making Prediction  :chart_with_upwards_trend:](https://github.com/vassylkorzh/Project-1-Titanic-Data-Set/blob/main/Code/Model%20Building.ipynb)
 [Code](https://github.com/vassylkorzh/Project-1-Titanic-Data-Set/blob/main/Code/Model%20Building.ipynb)
 ![](https://github.com/vassylkorzh/Project-1-Titanic-Data-Set/blob/main/Images/Model%20results.png)
