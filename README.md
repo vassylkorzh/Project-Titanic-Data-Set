@@ -16,7 +16,12 @@ The second step was to understand how the number of relatives on board affects t
 
 ![](https://github.com/vassylkorzh/Project-1-Titanic-Data-Set/blob/main/Images/Ticket%20Class%20%26%20Port%20of%20Embarkation.png)
 
-It will help us in the next part
+It will help in the next part when I'll do some feature engineering.
+Such as creating Name Title,Cabin Letter, Age Bins ... columns
 ![](https://github.com/vassylkorzh/Project-1-Titanic-Data-Set/blob/main/Images/Cabin%20Letter.png)
+[Presentation document](https://github.com/vassylkorzh/Project-1-Titanic-Data-Set/blob/main/5.%20Insights/Titanic.pdf)
 ## Part 2 Data Preprocesing  :wrench:
-## Part 3 Model Building & Making Prediction
+[Code](https://github.com/vassylkorzh/Project-1-Titanic-Data-Set/blob/main/Code/Titanic%20Data%20Preprocesing.ipynb)
+## Part 3 Model Building & Making Prediction  :chart_with_upwards_trend:
+[Code](https://github.com/vassylkorzh/Project-1-Titanic-Data-Set/blob/main/Code/Model%20Building.ipynb)
+![](https://github.com/vassylkorzh/Project-1-Titanic-Data-Set/blob/main/Images/Model%20results.png)
