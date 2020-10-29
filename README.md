@@ -1,4 +1,4 @@
-# Project-1-Titanic-Data-Set
+# Project-Titanic-Data-Set
 Predict survival on the Titanic
 ## Part 1 Visualization :art:
 First of all I decided to watch how gender and age affect the likelihood of survival
